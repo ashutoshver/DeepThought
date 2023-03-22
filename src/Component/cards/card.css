@@ -1,0 +1,185 @@
+.container{
+    height: 600px;
+    width: 550px;
+    margin-bottom: 25px;
+    border-radius: 15px;
+    margin-top: 45px;
+    overflow: hidden;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.container h3{
+    text-align: center;
+    background-color: black;
+    color: white;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 10px;
+}
+.container p{
+    padding: 10px;
+}
+.container img{
+    width: 100%;
+    margin-top: 30px;
+}
+.thread{
+    display: flex;
+    gap: 90px;
+    margin-top: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 10px;
+}
+.sub{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    margin: auto;
+    margin-top: 10px;
+}
+.textarea{
+    padding: 0 4px;
+    background-color: rgba(128, 128, 128, 0.178);
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.textarea p{
+    font-size: 13px;
+}
+.textarea textarea{
+    width: 200px;
+    height: 90px;
+    border-radius: 20px;
+    padding: 5px;
+    outline: none;
+    border: none;
+    font-size: 15px;
+
+}
+.select{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 130px;
+    margin-top: 20px;
+    width: 70%;
+}
+.four_icon i{
+    margin-left: 10px;
+    font-size: 20px;
+}
+.select_btn select{
+    margin-left: 20px;
+    outline: none;
+    border: none;
+    padding: 0,10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.sub_thread{
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    font-size: 15px;
+    border-radius: 10px;
+    font-weight: 700;
+    margin-left: 30px;
+    margin-top: 40px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+.textarea_1{
+    padding: 0 4px;
+    width: 90%;
+    margin: auto;
+    background-color: rgba(128, 128, 128, 0.178);
+    border-radius: 20px;
+    margin-top: 50px;
+    
+}
+.textarea_1 textarea{
+    width: 100%;
+    height: 130px;
+    border-radius: 20px;
+    padding: 5px;
+    outline: none;
+    border: none;
+    font-size: 15px;
+}
+.content_structure{
+    width: 90%;
+    margin: auto;
+}
+.title input{
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    outline: none;
+    border: none;
+}
+.full_content{
+    height: 100vh;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-top: 20px;
+}
+li{
+    list-style: none;
+}
+.list ul{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 20px;
+}
+h4{
+    margin-top: 20px;
+}
+.content{
+    
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 10px;
+    overflow: hidden;
+}
+.icon_para{
+    margin-top: 20px;
+    
+}
+.icon_para i{
+    margin-right: 40px;
+}
+.icon_para select{
+    padding: 5px;
+    margin-right: 20px;
+    width: 120px;
+    outline: none;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.intro{
+    width: 95%;
+    margin: auto;
+    gap: 8px;
+    display: flex;
+    background-color: rgba(128, 128, 128, 0.178);
+    padding: 5px;
+    margin-top: 20px;
+}
+.intro_para{
+    width: 90%;
+    margin: auto;
+    font-size: 20px;
+}
+.intro_para .see{
+    margin-left: 80%;
+    font-size: 16px;
+}
+.intro-1{
+    width: 90%;
+    margin: auto;
+    gap: 8px;
+    display: flex;
+    background-color: rgba(128, 128, 128, 0.178);
+    padding: 7px;
+    margin-top: 20px;
+}
