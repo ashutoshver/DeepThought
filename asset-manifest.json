@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DeepThought/static/css/main.3c0e0c3e.css",
+    "main.js": "/DeepThought/static/js/main.7928e927.js",
+    "index.html": "/DeepThought/index.html",
+    "main.3c0e0c3e.css.map": "/DeepThought/static/css/main.3c0e0c3e.css.map",
+    "main.7928e927.js.map": "/DeepThought/static/js/main.7928e927.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c0e0c3e.css",
+    "static/js/main.7928e927.js"
+  ]
+}
